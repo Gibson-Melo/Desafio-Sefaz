@@ -1,0 +1,4 @@
+user=root
+password=1234567890
+u=jdbc:mysql://127.0.0.1:3306/dbcadastro
+useSSL=false
